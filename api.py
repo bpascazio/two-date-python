@@ -16,13 +16,13 @@ men = [
     },
     {
         'name': u"gary",
-        'img': u'http://s10.postimg.org/718snsqqx/IMG_6703.jpg ',
+        'img': u'http://s10.postimg.org/718snsqqx/IMG_6703.jpg',
         'age': 19,
         'married': True
     },
     {
         'name': "henry",
-        'img': u'http://s28.postimg.org/4mcp3qzi5/IMG_6676.jpg ',
+        'img': u'http://s28.postimg.org/4mcp3qzi5/IMG_6676.jpg',
         'age': 28,
         'married': False
     },
@@ -39,7 +39,7 @@ women = [
 
     {
         'name': "shirley",
-        'img': u'http://s22.postimg.org/waazs9wep/IMG_6031.jpg ',
+        'img': u'http://s22.postimg.org/waazs9wep/IMG_6031.jpg',
         'age': 54,
         'married': False
     },
